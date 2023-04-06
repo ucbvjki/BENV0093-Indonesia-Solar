@@ -1,26 +1,26 @@
 plant,capacity_mw,status,longitude,latitude,type
-Musi Green Hybrid,10.5,construction,103.57323,-3.22589,solar
-Cirata Floating PV,145,planned,107.284362,6.729391,solar
-West Kalimantan,100,planned,109.354,-0.0596,solar
-Lampung PV + storage,100,planned,104.7308,-2.9708,solar
-Singkarak,90,planned,100.54112,-0.609636,solar
-Bangka,10,planned,105.77758,-1.45485,solar
-East Bali,25,planned,115.5650753,-8.252377963,solar
-West Bali,25,planned,114.6488,-8.3621,solar
-Saguling,60,planned,107.427236,-6.93368,solar
-Ombilin,100,construction,100.7570086,-0.627726275,solar
-Tanjung Enim,100,construction,103.7776331,-3.741023378,solar
-Batam,1692,planned,104.4361,1.1217,solar
-Labuan Bajo,70,planned,119.74541,-8.5285,solar
-West Java,50,planned,108.1781,-6.4511,solar
-Central Java,50,planned,109.5734,-7.6333,solar
-East Java,50,planned,112.238,-7.5389,solar
-Tambora,10,planned,116.151915,8.599271,solar
-West Java,5,planned,108.1781,-6.4511,solar
-Kayan,9000,planned,117.3638874,2.864964409,hydro
-Cisokan,1040,planned,107.2186,-6.9478,hydro
-Asahan III,174,planned,99.42039,2.58358,hydro
-Sukabumi,150,planned,106.46509,-7.13542,wind
+Musi Green Hybrid,10.5,construction,103.57323,-3.22589,Solar
+Cirata Floating PV,145,planned,107.284362,6.729391,Solar
+West Kalimantan,100,planned,109.354,-0.0596,Solar
+Lampung PV + storage,100,planned,104.7308,-2.9708,Solar
+Singkarak,90,planned,100.54112,-0.609636,Solar
+Bangka,10,planned,105.77758,-1.45485,Solar
+East Bali,25,planned,115.5650753,-8.252377963,Solar
+West Bali,25,planned,114.6488,-8.3621,Solar
+Saguling,60,planned,107.427236,-6.93368,Solar
+Ombilin,100,construction,100.7570086,-0.627726275,Solar
+Tanjung Enim,100,construction,103.7776331,-3.741023378,Solar
+Batam,1692,planned,104.4361,1.1217,Solar
+Labuan Bajo,70,planned,119.74541,-8.5285,Solar
+West Java,50,planned,108.1781,-6.4511,Solar
+Central Java,50,planned,109.5734,-7.6333,Solar
+East Java,50,planned,112.238,-7.5389,Solar
+Tambora,10,planned,116.151915,8.599271,Solar
+West Java,5,planned,108.1781,-6.4511,Solar
+Kayan,9000,planned,117.3638874,2.864964409,Hydro
+Cisokan,1040,planned,107.2186,-6.9478,Hydro
+Asahan III,174,planned,99.42039,2.58358,Hydro
+Sukabumi,150,planned,106.46509,-7.13542,Wind
 Asahan I,180,existing,99.259,2.5113,Hydro
 Bakaru,126,existing,119.6042,-3.1141,Hydro
 Balambano,130,existing,121.357,-2.5213,Hydro
